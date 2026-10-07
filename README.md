@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ritik</h1>
+<h1 align="center">Hi 👋, I'm Ray</h1>
 <h3 align="center">A passionate cybersecurity engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cybersenpai67&label=Profile%20views&color=0e75b6&style=flat" alt="cybersenpai67" /> </p>
